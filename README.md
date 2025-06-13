@@ -1,2 +1,2 @@
 # BOSTON-PRICE-PREDICTOR
-Boston Price Predictor using Flask and Machine Learning
+Boston House Price Predictor using Flask and Machine Learning
